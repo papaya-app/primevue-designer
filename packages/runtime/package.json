@@ -1,0 +1,14 @@
+{
+  "name": "@primevue-designer/runtime",
+  "private": true,
+  "version": "0.0.0",
+  "license": "MIT",
+  "type": "module",
+  "scripts": {},
+  "devDependencies": {
+    "vue": "^3.3.13"
+  },
+  "dependencies": {
+    "primevue": "^3.45.0"
+  }
+}
